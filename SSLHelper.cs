@@ -2,7 +2,7 @@
 
 namespace Helpers;
 
-public class SSLHelper
+public class SslHelper
 {
     public static void IgnoreCertificateWarning()
     {
